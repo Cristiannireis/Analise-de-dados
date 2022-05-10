@@ -1,5 +1,4 @@
 import pandas as pd
 
-tabela = pd.read_csv("dados.csv")
-
-# importar dados com pandas
+tabela = pd.read_excel("")
+print(tabela)

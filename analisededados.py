@@ -8,3 +8,6 @@ print(tabela)
 
 pd.set_option('display.max_columns', valor)
 print(tabela_vendas)
+
+#faturamento por loja
+faturamento = tabelas_venda [['ID Loja', 'Quantidade']]
